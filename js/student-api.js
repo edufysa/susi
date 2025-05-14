@@ -1,5 +1,5 @@
 // API functions for Students page
-const API_URL = 'https://script.google.com/macros/s/AKfycbwTQ8xm54KTy1AxuFLRbsLv7L_veDZbvXZDpDVQDteNn-8Wg8oaJDo9X529aYc0GMUF/exec';
+const API_URL = 'https://script.google.com/macros/s/AKfycbzbzi2XgqFMTV6cH4LLIp6uRu0aGOGuD3vgkHyhHVEPvtGu-z0lTi6cf0sGjxF5U-2n/exec';
 
 // Direct API call function
 async function callApi(action, params = {}) {
