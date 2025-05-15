@@ -172,8 +172,7 @@ function createHeader(user) {
                     </div>
                 </button>
                 <div id="user-dropdown" class="absolute right-0 mt-2 w-48 bg-card border border-border rounded-md shadow-lg py-1 z-10 hidden">
-                    <a href="#" class="block px-4 py-2 text-sm text-foreground hover:bg-muted/60 transition-colors">Profile</a>
-                    <a href="#" class="block px-4 py-2 text-sm text-foreground hover:bg-muted/60 transition-colors">Settings</a>
+
                     <button id="header-logout-btn" class="block w-full text-left px-4 py-2 text-sm text-destructive hover:bg-muted/60 transition-colors">Logout</button>
                 </div>
             </div>
